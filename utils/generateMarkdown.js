@@ -27,7 +27,9 @@ ${data.description}
 ## Table of Contents
 
 * [Usage](#usage)
-* [Contibution](#contribution)
+* [Installation](#installation)
+* [Contribution](#contribution)
+* [Test Instructions](#test)
 
 
 ## Usage
